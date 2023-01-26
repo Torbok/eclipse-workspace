@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Jared
- *
- */
-module kmk {
-}
