@@ -1,3 +1,4 @@
+package examples;
 /**
    This program demonstrates a solution to the 
    Stock Transaction Program programming exercise.

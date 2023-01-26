@@ -1,3 +1,4 @@
+package examples;
 import java.util.Scanner;  // Needed for the Scanner class
 
 /** 

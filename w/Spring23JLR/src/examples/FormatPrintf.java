@@ -1,3 +1,4 @@
+package examples;
 import java.text.DecimalFormat; // Needed for DecimalFormat
 
 /**
