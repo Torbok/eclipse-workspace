@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Progam2JR {
-
 	public static void main(String[] args) {
 		//1/23/2023
 		//Enter a dollar amount and determine least amount of bills to pay with
