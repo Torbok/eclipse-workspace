@@ -29,9 +29,7 @@ public class inClassWage {
 			pay=40*payRate;
 		}
 		System.out.printf("Payment: $%,.2f\n",pay);
-		outp = outp + "Payment: %,.2f\n" + pay;
 		System.out.printf("Overpay: $%,.2f\n",overPay);
-		outp = outp + "Overpay: %,.2f\n" + overPay;
 		System.out.println(outp);
 		kb.close();
 		System.exit(0);
