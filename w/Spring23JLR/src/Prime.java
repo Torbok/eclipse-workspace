@@ -5,6 +5,7 @@ public class Prime {
 
 	public static void main(String[] args) {
 		int startVal=0;
+		String testStr;
 		int endVal=0;
 		int primeTotal=0;
 		boolean isPrime=false;
